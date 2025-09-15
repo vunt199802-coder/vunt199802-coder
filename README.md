@@ -3,8 +3,6 @@
 
 *Building the bridge between cutting-edge AI and intuitive user experiences*
 
-[![Email](https://img.shields.io/badge/📧-Email-D14836)](mailto:top.developer0812@gmail.com)
-
 ---
 
 ### 🛠️ Technical Toolkit
@@ -59,7 +57,5 @@ Custom n8n nodes to automate the entire lifecycle of blog content
 ### 📫 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-- **Email:** [top.developer0812@gmail.com](mailto:top.developer0812@gmail.com)
 
 *Thanks for visiting my profile! Have a great day! 😊*
